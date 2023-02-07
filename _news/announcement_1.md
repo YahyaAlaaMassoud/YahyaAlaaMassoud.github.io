@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-09-06
 inline: true
 ---
 
-A simple inline announcement.
+Starting a Master's Degree program in Computer Science (Applied AI) at the Univeristy of Ottawa.
