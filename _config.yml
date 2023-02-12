@@ -115,7 +115,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: The Machine Mind # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Dedicated to exploring and sharing new insights in AI and engineering research.
+blog_description: Dedicated to exploring and sharing insights in the AI and engineering fields.
 permalink: /blog/:year/:title/
 
 # Pagination
