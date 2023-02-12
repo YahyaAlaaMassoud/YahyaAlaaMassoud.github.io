@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <b>Machine Learning Engineer · Researcher · Entrepreneur</b>
+  <b>Machine Learning Engineer · Researcher · ex-CTO</b>
 
 profile:
   align: right
